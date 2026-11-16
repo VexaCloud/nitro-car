@@ -1,0 +1,1 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 20'><circle cx='16.6' cy='5.6' r='3.3' fill-opacity='.72'/><path fill-opacity='.72' d='M12.2 18.6c.3-4.4 2-7.2 4.6-7.2 3 0 4.9 2.8 5.2 7.2z'/><circle cx='8.6' cy='5' r='3.9'/><path d='M1.8 18.6c.3-5.3 2.9-8.4 6.8-8.4s6.5 3.1 6.8 8.4z'/></svg>
